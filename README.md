@@ -5,9 +5,9 @@
 
 # Get Your Github User
 
-It is a web-based application that allows users to search for other GitHub users based on various criteria. The app uses the GitHub API to retrieve information about users and their repositories and displays the results in a user-friendly interface.
+* It is a web-based application that allows users to search for other GitHub users based on various criteria. The app uses the GitHub API to retrieve information about users and their repositories and displays the results in a user-friendly interface.
 
-Once a user has found the GitHub user they are interested in, they can click on the user's profile to view more detailed information, such as a list of their repositories, recent activity, and other details. The app may also provide links to the user's GitHub profile and individual repositories, allowing users to explore further.
+* Once a user has found the GitHub user they are interested in, they can click on the user's profile to view more detailed information, such as a list of their repositories, recent activity, and other details. The app may also provide links to the user's GitHub profile and individual repositories, allowing users to explore further.
 
 
 ## Screenshots
