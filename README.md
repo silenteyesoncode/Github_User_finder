@@ -10,7 +10,10 @@ Once a user has found the GitHub user they are interested in, they can click on 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://user-images.githubusercontent.com/46851135/231368370-3cb0dddf-369b-4221-bf80-9a183e63c9a1.png"  width="400" > <img src="https://user-images.githubusercontent.com/46851135/231368707-7f48a8a6-e13b-4912-bfb7-49ed7bdab7de.png"  width="400" >
+<img src="https://user-images.githubusercontent.com/46851135/231368993-c2a0a062-2aff-4db2-a203-26f7ed3c6281.png"  width="400" > 
+
+
 
 
 ## Run Locally
